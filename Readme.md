@@ -1,0 +1,1 @@
+This is a netflix clone project solely made for education and learning purpose by me(Dharma Kevadiya).
